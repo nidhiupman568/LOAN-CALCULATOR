@@ -8,6 +8,8 @@ Welcome to the **Loan Calculator** project! 🎉 This efficient and user-friendl
 
 The **Loan Calculator** is a simple web application designed to calculate your monthly EMI by taking into account the total loan amount, repayment period in months, and the rate of interest. Just enter these values, and you'll get instant results to better manage your finances. Stay on top of your loan payments with this handy tool! 💸
 
+The Loan Calculator can be used to calculate the monthly EMI of the loan by taking the total amount, months to repay, and the rate of interest.
+
 ## 🛠️ Built With
 
 - **HTML**: For the structure of the application.
