@@ -1,8 +1,8 @@
-Absolutely, here's the enhanced description with more emojis:
-
 # 💰 Loan Calculator Project 💰
 
 🎉 Welcome to the **Loan Calculator** project! 🎉 This efficient and user-friendly tool helps you quickly calculate your monthly EMI (Equated Monthly Installment) based on the total loan amount, repayment period, and interest rate. Built with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, this tool is both functional and visually appealing. 💰
+
+Project Demo: https://nidhiupman568.github.io/LOAN-CALCULATOR/
 
 ## 📋 Description
 
